@@ -1,1 +1,1 @@
-![](https://github.com/c-language-examples/assets/calculator_usage.gif)
+![](https://github.com/RofzHC/c-language-examples/assets/calculator_usage.gif)
