@@ -23,9 +23,9 @@ int main(void)
        printf("12. 10 ^ X\n13.X !\n14.%c\n15.log10(x)\n16.Modo\n", 37);
        printf("17.Seno(X)\n18.Coseno(X)\n19.Tangente(X)\n20.Cosecante(X)\n");
        printf("21.Cotangente(X)\n22.Secante(X)\n");
-       printf("Opção: ");
 
        //captura opção do usuário
+       printf("Opção: ");
        scanf("%d", &opcao);
 
 
